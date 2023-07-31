@@ -1,0 +1,264 @@
+﻿  CoreCannon.cpp
+C:\Users\User\Pictures\SFML\SFML\CoreCannon.h(52,62): warning C4244: 'return': conversión de 'const T' a 'unsigned int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\User\Pictures\SFML\SFML\CoreCannon.h(55,75): warning C4244: 'return': conversión de 'T' a 'unsigned int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\User\Pictures\SFML\SFML\CoreCannon.cpp(31,34): warning C4244: 'argumento': conversión de 'const unsigned int' a 'float'; posible pérdida de datos
+C:\Users\User\Pictures\SFML\SFML\CoreCannon.cpp(34,111): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\User\Pictures\SFML\SFML\CoreCannon.cpp(34,67): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\User\Pictures\SFML\SFML\CoreCannon.cpp(54,39): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  InvaderFormation.cpp
+C:\Users\User\Pictures\SFML\SFML\CoreCannon.h(52,62): warning C4244: 'return': conversión de 'const T' a 'unsigned int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\User\Pictures\SFML\SFML\CoreCannon.h(55,75): warning C4244: 'return': conversión de 'T' a 'unsigned int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\User\Pictures\SFML\SFML\InvaderFormation.cpp(148,64): warning C4244: 'argumento': conversión de 'T' a 'const unsigned int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\User\Pictures\SFML\SFML\InvaderFormation.cpp(148,49): warning C4244: 'argumento': conversión de 'T' a 'const unsigned int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+  LivesDisplay.cpp
+C:\Users\User\Pictures\SFML\SFML\CoreCannon.h(52,62): warning C4244: 'return': conversión de 'const T' a 'unsigned int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\User\Pictures\SFML\SFML\CoreCannon.h(55,75): warning C4244: 'return': conversión de 'T' a 'unsigned int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\User\Pictures\SFML\SFML\LivesDisplay.cpp(19,42): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+C:\Users\User\Pictures\SFML\SFML\LivesDisplay.cpp(57,38): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+  Menu.cpp
+C:\Users\User\Pictures\SFML\SFML\CoreCannon.h(52,62): warning C4244: 'return': conversión de 'const T' a 'unsigned int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\User\Pictures\SFML\SFML\CoreCannon.h(55,75): warning C4244: 'return': conversión de 'T' a 'unsigned int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\User\Pictures\SFML\SFML\Menu.cpp(16,29): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\User\Pictures\SFML\SFML\Menu.cpp(16,24): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  PoweredInvaderLaser.cpp
+C:\Users\User\Pictures\SFML\SFML\PoweredInvaderLaser.cpp(19,32): warning C4244: 'argumento': conversión de 'const unsigned int' a 'float'; posible pérdida de datos
+C:\Users\User\Pictures\SFML\SFML\PoweredInvaderLaser.cpp(19,29): warning C4244: 'argumento': conversión de 'const unsigned int' a 'float'; posible pérdida de datos
+C:\Users\User\Pictures\SFML\SFML\PoweredInvaderLaser.cpp(20,49): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+C:\Users\User\Pictures\SFML\SFML\PoweredInvaderLaser.cpp(20,29): warning C4244: 'argumento': conversión de 'const unsigned int' a 'float'; posible pérdida de datos
+C:\Users\User\Pictures\SFML\SFML\PoweredInvaderLaser.cpp(21,34): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+C:\Users\User\Pictures\SFML\SFML\PoweredInvaderLaser.cpp(21,29): warning C4244: 'argumento': conversión de 'const unsigned int' a 'float'; posible pérdida de datos
+C:\Users\User\Pictures\SFML\SFML\PoweredInvaderLaser.cpp(22,34): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+C:\Users\User\Pictures\SFML\SFML\PoweredInvaderLaser.cpp(22,29): warning C4244: 'argumento': conversión de 'const unsigned int' a 'float'; posible pérdida de datos
+C:\Users\User\Pictures\SFML\SFML\PoweredInvaderLaser.cpp(50,37): warning C4244: 'return': conversión de 'const T' a 'unsigned int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\User\Pictures\SFML\SFML\PoweredInvaderLaser.cpp(56,37): warning C4244: 'return': conversión de 'const T' a 'unsigned int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\User\Pictures\SFML\SFML\PoweredInvaderLaser.cpp(65,29): warning C4244: 'argumento': conversión de 'const int' a 'float'; posible pérdida de datos
+C:\Users\User\Pictures\SFML\SFML\PoweredInvaderLaser.cpp(66,29): warning C4244: 'argumento': conversión de 'const int' a 'float'; posible pérdida de datos
+C:\Users\User\Pictures\SFML\SFML\PoweredInvaderLaser.cpp(67,29): warning C4244: 'argumento': conversión de 'const int' a 'float'; posible pérdida de datos
+C:\Users\User\Pictures\SFML\SFML\PoweredInvaderLaser.cpp(68,29): warning C4244: 'argumento': conversión de 'const int' a 'float'; posible pérdida de datos
+C:\Users\User\Pictures\SFML\SFML\PoweredInvaderLaser.cpp(93,51): warning C4244: 'argumento': conversión de 'const unsigned int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\User\Pictures\SFML\SFML\PoweredInvaderLaser.cpp(93,48): warning C4244: 'argumento': conversión de 'const unsigned int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\User\Pictures\SFML\SFML\PoweredInvaderLaser.cpp(93,99): warning C4244: 'argumento': conversión de 'const unsigned int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\User\Pictures\SFML\SFML\PoweredInvaderLaser.cpp(93,96): warning C4244: 'argumento': conversión de 'const unsigned int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\User\Pictures\SFML\SFML\PoweredInvaderLaser.cpp(93,147): warning C4244: 'argumento': conversión de 'const unsigned int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\User\Pictures\SFML\SFML\PoweredInvaderLaser.cpp(93,144): warning C4244: 'argumento': conversión de 'const unsigned int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\User\Pictures\SFML\SFML\PoweredInvaderLaser.cpp(93,195): warning C4244: 'argumento': conversión de 'const unsigned int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\User\Pictures\SFML\SFML\PoweredInvaderLaser.cpp(93,192): warning C4244: 'argumento': conversión de 'const unsigned int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+  ScoreDisplay.cpp
+C:\Users\User\Pictures\SFML\SFML\CoreCannon.h(52,62): warning C4244: 'return': conversión de 'const T' a 'unsigned int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\User\Pictures\SFML\SFML\CoreCannon.h(55,75): warning C4244: 'return': conversión de 'T' a 'unsigned int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+  Shield.cpp
+C:\Users\User\Pictures\SFML\SFML\Shield.cpp(10,36): warning C4244: 'argumento': conversión de 'const int' a 'float'; posible pérdida de datos
+C:\Users\User\Pictures\SFML\SFML\Shield.cpp(10,30): warning C4244: 'argumento': conversión de 'const int' a 'float'; posible pérdida de datos
+C:\Users\User\Pictures\SFML\SFML\Shield.cpp(28,19): warning C4244: 'inicializando': conversión de 'const T' a 'unsigned int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\User\Pictures\SFML\SFML\Shield.cpp(29,19): warning C4244: 'inicializando': conversión de 'const T' a 'unsigned int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\User\Pictures\SFML\SFML\Shield.cpp(30,20): warning C4244: 'inicializando': conversión de 'T' a 'unsigned int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\User\Pictures\SFML\SFML\Shield.cpp(31,21): warning C4244: 'inicializando': conversión de 'T' a 'unsigned int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\User\Pictures\SFML\SFML\Shield.cpp(73,66): warning C4244: 'argumento': conversión de 'unsigned int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\User\Pictures\SFML\SFML\Shield.cpp(73,63): warning C4244: 'argumento': conversión de 'unsigned int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\User\Pictures\SFML\SFML\Shield.cpp(88,19): warning C4244: 'inicializando': conversión de 'const T' a 'unsigned int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\User\Pictures\SFML\SFML\Shield.cpp(89,19): warning C4244: 'inicializando': conversión de 'const T' a 'unsigned int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\User\Pictures\SFML\SFML\Shield.cpp(90,20): warning C4244: 'inicializando': conversión de 'T' a 'unsigned int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\User\Pictures\SFML\SFML\Shield.cpp(91,21): warning C4244: 'inicializando': conversión de 'T' a 'unsigned int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\User\Pictures\SFML\SFML\Shield.cpp(110,95): warning C4244: 'argumento': conversión de 'unsigned int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\User\Pictures\SFML\SFML\Shield.cpp(110,92): warning C4244: 'argumento': conversión de 'unsigned int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+  ShieldWall.cpp
+  UFO.cpp
+C:\Users\User\Pictures\SFML\SFML\CoreCannon.h(52,62): warning C4244: 'return': conversión de 'const T' a 'unsigned int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\User\Pictures\SFML\SFML\CoreCannon.h(55,75): warning C4244: 'return': conversión de 'T' a 'unsigned int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\User\Pictures\SFML\SFML\UFO.cpp(41,70): warning C4267: 'argumento': conversión de 'size_t' a 'const unsigned int'; posible pérdida de datos
+C:\Users\User\Pictures\SFML\SFML\UFO.cpp(97,46): warning C4305: 'argumento': truncamiento de 'const double' a 'float'
+C:\Users\User\Pictures\SFML\SFML\UFO.cpp(97,33): warning C4305: 'argumento': truncamiento de 'const double' a 'float'
+C:\Users\User\Pictures\SFML\SFML\UFO.cpp(137,81): warning C4244: 'argumento': conversión de 'T' a 'const unsigned int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+  game.cpp
+C:\Users\User\Pictures\SFML\SFML\CoreCannon.h(52,62): warning C4244: 'return': conversión de 'const T' a 'unsigned int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\User\Pictures\SFML\SFML\CoreCannon.h(55,75): warning C4244: 'return': conversión de 'T' a 'unsigned int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\User\Pictures\SFML\SFML\game.cpp(69,50): warning C4244: 'argumento': conversión de 'T' a 'const unsigned int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\User\Pictures\SFML\SFML\game.cpp(69,37): warning C4244: 'argumento': conversión de 'T' a 'const unsigned int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\User\Pictures\SFML\SFML\game.cpp(134,25): warning C4244: 'argumento': conversión de 'const unsigned int' a 'float'; posible pérdida de datos
+C:\Users\User\Pictures\SFML\SFML\game.cpp(134,22): warning C4244: 'argumento': conversión de 'const unsigned int' a 'float'; posible pérdida de datos
+  main.cpp
+C:\Users\User\Pictures\SFML\SFML\CoreCannon.h(52,62): warning C4244: 'return': conversión de 'const T' a 'unsigned int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\User\Pictures\SFML\SFML\CoreCannon.h(55,75): warning C4244: 'return': conversión de 'T' a 'unsigned int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\User\Pictures\SFML\SFML\main.cpp(14,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Generando código...
+  SFML.vcxproj -> C:\Users\User\Pictures\SFML\x64\Debug\SFML.exe
